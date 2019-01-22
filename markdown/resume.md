@@ -55,9 +55,6 @@ Nov 2009 - Jun 2019
 configurable, flexible and modular multi-commodity software solution suite 
 that integrates trading, risk/control, credit, fuels procurement, emissions 
 compliance, back-office, treasury/finance and senior management information needs. 
-It leverages an advanced integration framework to efficiently move data between 
-functional components and facilitate integration both within the suite and 
-between the suite and a customer’s other software systems.
 
 Nov 2006 - Nov 2009
 :   **Infosys** *(Sr Systems Engineer)*
