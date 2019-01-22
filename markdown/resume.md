@@ -3,8 +3,9 @@ Dhruv Pratap
 
 ----
 
->  Seeking a quality environment where my knowledge and experience 
->  can be shared and enriched.
+>   Seeking a challenge in an engineering environment where my skills, 
+>   knowledge and prior experience will aid an organization in
+>   transformation.
 
 ----
 
@@ -70,7 +71,7 @@ Technical Skills
 ----------------
 
 :   **Dev:**  Java, Spring Boot, JPA, Axon Framework, Rest API, Messaging systems
-:   **Design Patterns:** CQRS in a Microservices Architecture following DDD.
+:   **Design Patterns:** CQRS in a Microservices Architecture following Domain-Driven-Design.
 :   **Build:**  Maven, Docker
 :   **Deploy:** Openshift Container Platform *(Kubernetes + Docker)*, Tomcat
 :   **IDE tools:** IntelliJ IDEA
@@ -115,6 +116,11 @@ Education
 Other things about me
 ---------------------
 
+* Certifications:
+
+     * Sun Certified Java Programmer 6.0
+     * Sun Certified Web ComponentDeveloper 5.0
+
 * Human Languages:
 
      * English (native speaker)
@@ -128,4 +134,5 @@ Other things about me
 ----
 
 > <dhruv.pratap@gmail.com> • +1 302 722 5892 • \
-> Address - 2741 Chinchilla Dr, Wilmington DE 19810 USA
+> Address: 2741 Chinchilla Dr, Wilmington DE 19810 USA
+> LinkedIn: http://www.linkedin.com/in/dhruvpratap
