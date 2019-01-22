@@ -14,7 +14,7 @@ Experience
 Jan 2012 - \ Present 
 :   **Barclays US** *(Sr Tech Lead)*
 
-    Barclays has a 2020 vision of increasing their customer base in US by 5 
+    Barclays had a 2020 vision of increasing their customer base in US by 5 
     times of what it was in 2015 and servicing that volume on our existing 
     architecture and infrastructure isn’t deemed possible. So as part of 
     launching a new product Consumer Loan in US in 2015 the ask was to develop 
@@ -25,14 +25,14 @@ Jan 2012 - \ Present
     payments module of the Consumer Loan Product.
 
     * My work of successfully delivering the Consumer Loans payments module 
-    was recognized and I was asked to lead the effort to onboard Barclays 
-    Credit Card product onto the platform, starting with Credit Card Benefits. 
-    The challenge involved was to act as a catalyst, onboard, mentor new folks 
-    and setup a whole new team of developers eventually.
+    was recognized by the senior leadership team and I was asked to lead the 
+    effort to onboard Barclays Credit Card product onto the platform, starting 
+    with Credit Card Benefits. As part of my role I had to act as a catalyst, 
+    onboard, mentor new folks and setup a whole new team of developers eventually.
     
     * Payments in cards space was seen as the most problematic area generating 
     most of care calls and was selected to be the next space in cards after 
-    benefits that needed a revamp. I am currently assigned to modernize the 
+    benefits that needed a revamp. I was asked to lead the effort to modernize the 
     Credit Card Payments space and in process also onboard it to our on-premise
     cloud "a-Platform-as-a-Service".
     
@@ -88,7 +88,7 @@ Web Server
 Databases
 : Relational and Document
 
-Operating Systems
+OS
 : RHEL 6/7
 
 Other Interests
