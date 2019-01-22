@@ -1,100 +1,131 @@
-Johnny Coder
+Dhruv Pratap
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Seeking a quality environment where my knowledge and experience 
+>  can be shared and enriched.
 
 ----
+
+Experience
+----------
+Jan 2012 - Present
+:   **Barclays US** *(Sr Tech Lead)*
+
+Barclays has a 2020 vision of increasing their customer base in US by 5 
+times of what it was in 2015 and servicing that volume on our existing 
+architecture and infrastructure isn’t deemed possible. So as part of 
+launching a new product Consumer Loan in US in 2015 the ask was to develop 
+a platform that can sustain such growth.
+
+* I	was a key member of the core group responsible for designing and developing 
+the platform and was given the responsibility of leading the effort for 
+payments module of the Consumer Loan Product.
+
+* My work of successfully delivering the Consumer Loans payments module 
+was recognized and I was asked to lead the effort to onboard Barclays 
+Credit Card product onto the platform, starting with Credit Card Benefits. 
+The challenge involved was to act as a catalyst, onboard, mentor new folks 
+and setup a whole new team of developers eventually.
+
+* Payments in cards space was seen as the most problematic area generating 
+most of care calls and was selected to be the next space in cards after 
+benefits that needed a revamp. I am currently assigned to modernize the 
+Credit Card Payments space and in process also onboard it to our on-premise
+cloud "a-Platform-as-a-Service".
+
+* I am currently assigned as the engineering lead for Barclays US migration
+to AWS. My role is to come up with a design and approach on how Barclays US can 
+migrate its application to AWS in a phased manner.  
+
+
+Jun 2010 - Jan 2012
+:   **PDX Inc** *(Sr Software Developer)*
+
+*   Worked on production support on their product Enterprise Pharmacy system, 
+a pharmacy management system which is used across majority of US pharmacies to 
+fill prescriptions and perform chain-wide drug utilization review.
+
+Nov 2009 - Jun 2019
+:   **Sungard (FIS)** *(Sr Software Engineer)*
+
+*   Primarily worked as a senior developer on their product Aligne that was a highly 
+configurable, flexible and modular multi-commodity software solution suite 
+that integrates trading, risk/control, credit, fuels procurement, emissions 
+compliance, back-office, treasury/finance and senior management information needs. 
+It leverages an advanced integration framework to efficiently move data between 
+functional components and facilitate integration both within the suite and 
+between the suite and a customer’s other software systems.
+
+Nov 2006 - Nov 2009
+:   **Infosys** *(Sr Systems Engineer)*
+
+*   In my tenure with Infosys I learned my trade as a developer on multiple Java
+projects for global clients such as British Telecom (UK), Telenet (Belgium) and
+Comcast Cable (US).
+
+
+Technical Skills
+----------------
+
+:   **Dev:**  Java, Spring Boot, JPA, Axon Framework, Rest API, Messaging systems
+:   **Design Patterns:** CQRS in a Microservices Architecture following DDD.
+:   **Build:**  Maven, Docker
+:   **Deploy:** Openshift Container Platform *(Kubernetes + Docker)*, Tomcat
+:   **IDE tools:** IntelliJ IDEA
+:   **Web Server:** WebLogic , Tomcat
+:   **Databases:** Relational and Document
+:   **Operating Systems:** RHEL 6/7
+
+Other Interests
+---------------
+
+Open Source Contribution
+:   Axon Framework
+    Added an enhancement to the Axon Framework to give keep-alive 
+    messages priority over command messages by using JGroups 
+    Out-of-Band thread queue. Otherwise under heavy load a network
+    split was happening resulting in a false behavior. 
+    [link](https://github.com/dhruv-pratap/AxonFramework)
+
+Solve design problems in free time
+:   GitHub
+    [ref]: https://github.com/dhruv-pratap
+
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2006-2006 
+:   **J2EE/Oracle Foundation Certification**; Infosys Training (Mysore INDIA)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *CGPA: 5.0 Batch topper of comprehensive training exam*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2002-2006 
+:   **B.E. Information Technology **; Bharathi Vidyapeeth (Pune INDIA)
 
-    *Minor: Awesomeology*
+    *Project: HTTP Cache Server*
 
-Experience
-----------
+1991-2002
+:   **School SSE/HSE**; CBSE (INDIA)
 
-**Your Most Recent Work Experience:**
+    *Subjects: Maths, Physics, Chemistry, Biology*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Other things about me
+---------------------
 
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Hindi
 
-* Random tidbit
+* Hobbies: 
 
-* Other sort of impressive-sounding thing you did
+    *   Playing and watching soccer. 
+    *   Listening podcasts while traveling.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <dhruv.pratap@gmail.com> • +1 302 722 5892 • \
+> Address - 2741 Chinchilla Dr, Wilmington DE 19810 USA
