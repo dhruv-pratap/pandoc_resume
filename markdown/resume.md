@@ -11,7 +11,7 @@ Dhruv Pratap
 
 Experience
 ----------
-Jan 2012 - Present 
+Jan 2012 - \ Present 
 :   **Barclays US** *(Sr Tech Lead)*
 
     Barclays has a 2020 vision of increasing their customer base in US by 5 
@@ -41,14 +41,14 @@ Jan 2012 - Present
     migrate its application to AWS in a phased manner.  
 
 
-Jun 2010 - Jan 2012
+Jun 2010 - \ Jan 2012
 :   **PDX Inc** *(Sr Software Developer)*
 
     *   Worked on production support on their product Enterprise Pharmacy system, 
     a pharmacy management system which is used across majority of US pharmacies to 
     fill prescriptions and perform chain-wide drug utilization review.
 
-Nov 2009 - Jun 2019
+Nov 2009 - \ Jun 2019
 :   **Sungard (FIS)** *(Sr Software Engineer)*
 
     *   Primarily worked as a senior developer on their product Aligne that was a highly 
@@ -56,7 +56,7 @@ Nov 2009 - Jun 2019
     that integrates trading, risk/control, credit, fuels procurement, emissions 
     compliance, back-office, treasury/finance and senior management information needs. 
 
-Nov 2006 - Nov 2009
+Nov 2006 - \ Nov 2009
 :   **Infosys** *(Sr Systems Engineer)*
 
     *   In my tenure with Infosys I learned my trade as a developer on multiple Java
@@ -146,5 +146,5 @@ Other things about me
 ----
 
 > <dhruv.pratap@gmail.com> • +1 302 722 5892 • \
-> Address: 2741 Chinchilla Dr, Wilmington DE 19810 USA
+> Address: 2741 Chinchilla Dr, Wilmington DE 19810 USA \
 > LinkedIn: http://www.linkedin.com/in/dhruvpratap
