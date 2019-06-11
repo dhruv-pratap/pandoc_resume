@@ -12,7 +12,7 @@ Dhruv Pratap
 Experience
 ----------
 Jan 2012 - \ Present 
-:   **Barclays US** *(Sr Tech Lead)*
+:   **Barclays US** *(Platform Engineering Lead)*
 
     Barclays had a 2020 vision of increasing their customer base in US by 5 
     times of what it was in 2015 and servicing that volume on our existing 
@@ -36,9 +36,13 @@ Jan 2012 - \ Present
     Credit Card Payments space and in process also onboard it to our on-premise
     cloud "a-Platform-as-a-Service".
     
-    * I am currently assigned as the engineering lead for Barclays US migration
-    to AWS. My role is to come up with a design and approach on how Barclays US can 
-    migrate its application to AWS in a phased manner.  
+    * Currently leading teams of engineers to build Barclays next generation cards 
+    platform which will be able to support 50 million consumers with millions of 
+    daily transactions. This platform is being build on CQRS [Command Query 
+    Responsibility Segregation] pattern which allows it to be scalable because of 
+    its non blocking & reactive nature, and serves the growing needs of our 
+    organization. The platform will also allow Barclays to migrate its application 
+    to AWS in a phased manner.  
 
 
 Jun 2010 - \ Jan 2012
