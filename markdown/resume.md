@@ -58,7 +58,7 @@ Jun 2010 - \ Jan 2012
     a pharmacy management system which is used across majority of US pharmacies to 
     fill prescriptions and perform chain-wide drug utilization review.
 
-Nov 2009 - \ Jun 2019
+Nov 2009 - \ Jun 2010
 :   **Sungard (FIS)** *(Sr Software Engineer)*
 
     *   Primarily worked as a senior developer on their product Aligne that was a highly 
@@ -87,10 +87,10 @@ Technical Skills Stack
 ----------------------
 
 Event driven apps
-:   Axon-based CQRS applications, Spring-based State-sourced CQRS application
+:   Axon-based CQRS app, Spring-based State-sourced CQRS app
 
 Request/Reply apps
-:   Spring boot based REST API microservice
+:   Spring boot based REST API 
 
 Integration apps
 :   Spring Integration, Camel
