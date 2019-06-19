@@ -81,6 +81,7 @@ Software engineering practices I abide by
 *   Object Oriented Principles
 *   Test Driven Development
 *   Continuous Integration and Delivery
+*   Twelve-factor app building methodology
 
 
 Technical Skills Stack
