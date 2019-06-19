@@ -110,7 +110,7 @@ Streaming & Messaging
 Package Management:
 :   Helm
 
-Continuous Integration & Delivery
+Cont. Integration & Delivery
 :   Jenkins
 
 Container Orchestration
