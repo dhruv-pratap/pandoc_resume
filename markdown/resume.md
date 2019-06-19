@@ -3,9 +3,10 @@ Dhruv Pratap
 
 ----
 
->   Seeking a challenge in an engineering environment where my skills, 
->   knowledge and prior experience will aid an organization in
->   transformation.
+>   Seeking a challenge in an environment where my engineering skills, knowledge, and prior 
+>   experience of leading engineering teams to build a cloud-native engineering platform
+>   can be used and applied to aid an organization grow by enabling them to deliver better 
+>   products faster. 
 
 ----
 
@@ -20,9 +21,14 @@ Jan 2012 - \ Present
     launching a new product Consumer Loan in US in 2015 the ask was to develop 
     a platform that can sustain such growth.
 
-    * I	was a key member of the core group responsible for designing and developing 
-    the platform and was given the responsibility of leading the effort for 
-    payments module of the Consumer Loan Product.
+    * The solution architecure was two-pronged. On the infrastructure front we 
+    moved an on-premise cloud based on OpenStack following industry leading DevOps 
+    practices. And on the application front we moved to a Microservice architecure
+    based on CQRS [Command Query Responsbility Segregation] pattern using Spring and 
+    Axon Frameworks. I was a key member of the platform engineering group 
+    responsible for designing and developing the platform and was also given the 
+    responsibility of leading the engineering effort for payments module of the 
+    Consumer Loan Product.
 
     * My work of successfully delivering the Consumer Loans payments module 
     was recognized by the senior leadership team and I was asked to lead the 
@@ -34,15 +40,15 @@ Jan 2012 - \ Present
     most of care calls and was selected to be the next space in cards after 
     benefits that needed a revamp. I was asked to lead the effort to modernize the 
     Credit Card Payments space and in process also onboard it to our on-premise
-    cloud "a-Platform-as-a-Service".
+    hosted Kubernetes environment provided by OpenShift Container Platform.
     
     * Currently leading teams of engineers to build Barclays next generation cards 
     platform which will be able to support 50 million consumers with millions of 
     daily transactions. This platform is being build on CQRS [Command Query 
     Responsibility Segregation] pattern which allows it to be scalable because of 
     its non blocking & reactive nature, and serves the growing needs of our 
-    organization. The platform will also allow Barclays to migrate its application 
-    to AWS in a phased manner.  
+    organization. The platform will also allow Barclays to migrate its application
+    that are currently deployed on our private OpenShift Cloud to AWS in a phased manner.  
 
 
 Jun 2010 - \ Jan 2012
@@ -68,32 +74,89 @@ Nov 2006 - \ Nov 2009
     Comcast Cable (US).
 
 
-Technical Skills
-----------------
+Software engineering practices I abide by
+-----------------------------------------
+*   Functional programming using Java and Groovy
+*   Domain Driven Design
+*   Object Oriented Principles
+*   Test Driven Development
+*   Continuous Integration and Delivery
 
-Dev
-: Java, Spring Boot, JPA, Axon Framework, Rest API, Messaging systems
 
-Design Patterns
-: CQRS in a Microservices Architecture following Domain-Driven-Design.
+Technical Skills Stack
+----------------------
 
-Build
-: Maven, Docker
+Event driven apps
+:   Axon-based CQRS applications, Spring-based State-sourced CQRS application
 
-Deploy
-: Openshift Container Platform *(Kubernetes + Docker)*, Tomcat
+Request/Reply apps
+:   Spring boot based REST API microservice
+
+Integration apps
+:   Spring Integration, Camel
+
+Batch apps
+:   Spring Batch, Spring Quartz
+
+Streaming apps
+:   Spring Cloud Stream, Spring Cloud Dataflow   
+
+Database
+:   Oracle, MariaDB, MongoDB, GridGain
+
+Streaming & Messaging
+:   ActiveMQ, Kafka, CloudEvents
+
+Package Management:
+:   Helm
+
+Continuous Integration & Delivery
+:   Jenkins
+
+Container Orchestration
+:   Kubernetes, Amazon ECS
+
+Configuration & Discovery
+:   Hashicorp Consul, Netflix OSS Eureka
+
+Service Proxy
+:   Envoy
+
+API gateway & Service Mesh
+:   Netflix OSS Zuul   
+
+Cloud Native Storage
+:   Rook, Swift
+
+Container Runtime
+:   Docker
+
+Infrastructure Provisioning
+:   Terraform
+
+Container Registry
+:   Nexus   
+
+Key Management
+:   Hashicorp Vault
+
+Monitoring
+:   Prometheus, Grafana
+
+Logging
+:   ElasticSearch, Logstash, Kibana
+
+Tracing
+:   Spring Cloud Sleuth, Zipkin, Jaeger, OpenTracing 
+
+Cloud
+:   OpenShift, OpenStack, AWS
+
+Languages
+: Java
 
 IDE tools
 : IntelliJ IDEA
-
-Web Server
-: WebLogic , Tomcat
-
-Databases
-: Relational and Document
-
-OS
-: RHEL 6/7
 
 Other Interests
 ---------------
