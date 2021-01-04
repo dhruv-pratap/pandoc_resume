@@ -3,16 +3,35 @@ Dhruv Pratap
 
 ----
 
->   Seeking a challenge in an environment where my engineering skills, knowledge, and prior 
->   experience of leading engineering teams to build a cloud-native engineering platform
->   can be used and applied to aid an organization grow by enabling them to deliver better 
->   products faster. 
+>   Seeking a challenge in an environment where my engineering skills, 
+>   knowledge, and prior experience of leading engineering teams to build a 
+>   cloud-native engineering platform can be used and applied to aid an 
+>   organization grow by enabling them to deliver better products faster. 
 
 ----
 
 Experience
 ----------
-Jan 2012 - \ Present 
+Mar 2020 - \ Present 
+:   **Amazon Web Services** *(Software Development Manager)*
+
+    Currently leading Amazon S3 Security space that improves security for all 
+    S3’s users. I own S3 public facing APIs and features that provide customers
+    with flexible access control, cryptographic data protection, and secure 
+    audit facilities. 
+
+Dec 2019 - \ Mar 2020 
+:   **Wawa** *(Technical Architect)*
+
+    Wawa undergoing a digital transformation and expanding their technology
+    operations required guidance on micro-service development practices, 
+    setting up CI pipelines, and defining software deployment and release 
+    procedures. As a Technical Architect I led a reference use case 
+    implementation which touched each of the aforementioned aspects, defined
+    and demonstrated a blueprint which served as a baseline for all the 
+    development teams henceforth.
+
+Jan 2012 - \ Dec 2019 
 :   **Barclays US** *(Platform Engineering Lead)*
 
     Barclays had a 2020 vision of increasing their customer base in US by 5 
@@ -22,56 +41,60 @@ Jan 2012 - \ Present
     a platform that can sustain such growth.
 
     * The solution architecure was two-pronged. On the infrastructure front we 
-    moved an on-premise cloud based on OpenStack following industry leading DevOps 
-    practices. And on the application front we moved to a Microservice architecure
-    based on CQRS [Command Query Responsbility Segregation] pattern using Spring and 
-    Axon Frameworks. I was a key member of the platform engineering group 
-    responsible for designing and developing the platform and was also given the 
-    responsibility of leading the engineering effort for payments module of the 
-    Consumer Loan Product.
+    moved an on-premise cloud based on OpenStack following industry leading 
+    DevOps practices. And on the application front we moved to a Microservice 
+    architecure based on CQRS [Command Query Responsbility Segregation] pattern
+    using Spring and Axon Frameworks. I was a key member of the platform 
+    engineering group responsible for designing and developing the platform and
+    was also given the responsibility of leading the engineering effort for 
+    payments module of the Consumer Loan Product.
 
     * My work of successfully delivering the Consumer Loans payments module 
     was recognized by the senior leadership team and I was asked to lead the 
     effort to onboard Barclays Credit Card product onto the platform, starting 
     with Credit Card Benefits. As part of my role I had to act as a catalyst, 
-    onboard, mentor new folks and setup a whole new team of developers eventually.
+    onboard, mentor new folks and setup a whole new team of developers 
+    eventually.
     
     * Payments in cards space was seen as the most problematic area generating 
     most of care calls and was selected to be the next space in cards after 
-    benefits that needed a revamp. I was asked to lead the effort to modernize the 
-    Credit Card Payments space and in process also onboard it to our on-premise
-    hosted Kubernetes environment provided by OpenShift Container Platform.
+    benefits that needed a revamp. I was asked to lead the effort to modernize 
+    the Credit Card Payments space and in process also onboard it to our 
+    on-premise hosted Kubernetes environment provided by OpenShift Container 
+    Platform.
     
-    * Currently leading teams of engineers to build Barclays next generation cards 
-    platform which will be able to support 50 million consumers with millions of 
-    daily transactions. This platform is being build on CQRS [Command Query 
-    Responsibility Segregation] pattern which allows it to be scalable because of 
-    its non blocking & reactive nature, and serves the growing needs of our 
-    organization. The platform will also allow Barclays to migrate its application
-    that are currently deployed on our private OpenShift Cloud to AWS in a phased manner.  
+    * Lead teams of engineers to build Barclays next generation cards platform 
+    which will be able to support 50 million consumers with millions of daily 
+    transactions. This platform is being build on CQRS [Command Query 
+    Responsibility Segregation] pattern which allows it to be scalable because
+    of its non blocking & reactive nature, and serves the growing needs of our 
+    organization. The platform will also allow Barclays to migrate its 
+    application that are currently deployed on our private OpenShift Cloud to 
+    AWS in a phased manner.  
 
 
 Jun 2010 - \ Jan 2012
 :   **PDX Inc** *(Sr Software Developer)*
 
-    *   Worked on production support on their product Enterprise Pharmacy system, 
-    a pharmacy management system which is used across majority of US pharmacies to 
-    fill prescriptions and perform chain-wide drug utilization review.
+    Worked on production support on their product Enterprise Pharmacy system, a
+    pharmacy management system which is used across majority of US pharmacies 
+    to fill prescriptions and perform chain-wide drug utilization review.
 
 Nov 2009 - \ Jun 2010
 :   **Sungard (FIS)** *(Sr Software Engineer)*
 
-    *   Primarily worked as a senior developer on their product Aligne that was a highly 
-    configurable, flexible and modular multi-commodity software solution suite 
-    that integrates trading, risk/control, credit, fuels procurement, emissions 
-    compliance, back-office, treasury/finance and senior management information needs. 
+    Primarily worked as a senior developer on their product Aligne that was a 
+    highly configurable, flexible and modular multi-commodity software solution
+    suite that integrates trading, risk/control, credit, fuels procurement, 
+    emissions compliance, back-office, treasury/finance and senior management 
+    information needs. 
 
 Nov 2006 - \ Nov 2009
 :   **Infosys** *(Sr Systems Engineer)*
 
-    *   In my tenure with Infosys I learned my trade as a developer on multiple Java
-    projects for global clients such as British Telecom (UK), Telenet (Belgium) and
-    Comcast Cable (US).
+    In my tenure with Infosys I learned my trade as a developer on multiple 
+    Java projects for global clients such as British Telecom (UK), Telenet 
+    (Belgium) and Comcast Cable (US).
 
 
 Software engineering practices I abide by
@@ -127,7 +150,7 @@ API gateway & Service Mesh
 :   Netflix OSS Zuul   
 
 Cloud Native Storage
-:   Rook, Swift
+:   Swift
 
 Container Runtime
 :   Docker
